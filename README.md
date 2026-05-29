@@ -27,7 +27,7 @@ Chamas play a major role in financial empowerment across Kenya and many parts of
 
 * **Backend:** Node.js
 * **Frontend:** HTML, CSS, JavaScript
-* **Database:** MongoDB *(edit if different)*
+* **Database:** MongoDB *
 * **Framework:** Express.js
 
 ---
